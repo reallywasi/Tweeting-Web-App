@@ -4,11 +4,10 @@ import RightSidebar from './RightSidebar'
 import Feed from './Feed'
 const Home = () => {
   return (
-    <div className='flex justify-between w-[80%]  '>
+    <div className='flex justify-between w-[80%]  mx-auto'>
     <LeftSidebar/>
     <Feed/>
-    hello
-    I've done some changes
+  
 
 
 
