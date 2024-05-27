@@ -8,7 +8,7 @@ import { IoMdLogOut } from "react-icons/io";
 
 const LeftSidebar = () => {
   return (
-    <div>
+    <div className="w-[20%]">
       <div>
         <div>
           <img

@@ -11,7 +11,6 @@ const Home = () => {
 
 
 
-    <h1>THIS IS HEADER FOR WTF</h1>
     <RightSidebar/>
 
     </div>
